@@ -3,9 +3,12 @@
 <h3><a href="https://www.tryhackme.com/">TryHackMe's Security Engineering</a></h3>
 -<b>Introduction to Security Engineering</b>
 -<b>Threats and Risks</b>
+
 -<b>Network and System Security</b>
-<b>Software Security</b>
-<b>Managing Incidents</b>
+
+-<b>Software Security</b>
+
+-<b>Managing Incidents</b>
 
 <h2>👨‍💻 SOC / Blue Team Projects </h2>
 
