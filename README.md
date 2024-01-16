@@ -21,7 +21,7 @@
 <b>Digital Forensics and Incident Response</b>-Understand what forensic artifacts are present in the Windows and Linux Operating Systems, how to collect them, and leverage them to investigate security incidents. <br/>
 <b>Phishing</b>-Learn how to analyze and defend against phishing emails. Investigate real-world phishing attempts using a variety of techniques. <br/>
 
-<h3> Tools and Technologies</h3>
+<h1> Tools and Technologies</h1>
 <b></b>
 
 
