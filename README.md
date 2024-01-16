@@ -1,5 +1,5 @@
  <h1>Hi, I'm Waleed! <br/><a href="https://www.linkedin.com/in/mohammed-waleed-9358881b0/">Cybersecurity Enthusiast</a> </h1>
-<h2> Certification / Qualification  <br/><a href="https://www.https://tryhackme.com/paths/">TryHackMe's Security Engineering</a> </h2>
+<h2> Certification / Qualification  <br/><a href="https://www.https://tryhackme.com/">TryHackMe's Security Engineering</a> </h2>
 
 <h2>👨‍💻 SOC / Blue Team Projects </h2>
 
