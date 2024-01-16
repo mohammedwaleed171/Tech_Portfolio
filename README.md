@@ -8,6 +8,9 @@
 -<b>Managing Incidents</b><br/>-Understand how security engineers help their organisations during an incident to reduce the impact of the incident.
 
 <h3><a href="https://www.tryhackme.com/">TryHackMe's SOC L1 </a></h3>
+<p align="center">
+<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EONT1KZEP5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 -<b>Cyber Defence Frameworks</b>
 -<b>Cyber Threat Intelligence</b>
 -<b>Network Security and Traffic Analysis</b>
