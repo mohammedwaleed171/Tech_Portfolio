@@ -9,14 +9,14 @@
 -<b>Managing Incidents</b><br/>-Understand how security engineers help their organisations during an incident to reduce the impact of the incident.
 
 <h3><a href="https://www.tryhackme.com/">TryHackMe's SOC L1 </a></h3>
-<br />
--<b>Cyber Defence Frameworks</b>
--<b>Cyber Threat Intelligence</b>
--<b>Network Security and Traffic Analysis</b>
--<b>Endpoint Security Monitoring</b>
--<b>Security Information and Event Management</b>
--<b>Digital Forensics and Incident Response</b>
--<b>Phishing</b>
+<br/>
+-<b>Cyber Defence Frameworks</b><br/>-Discover frameworks and policies that help establish a good security posture. Learn how organisations use these in defensive strategies. <br/>
+-<b>Cyber Threat Intelligence</b><br/> -Learn about identifying and using available security knowledge to mitigate and manage potential adversary actions.
+-<b>Network Security and Traffic Analysis</b> -Understand the core concepts of Network Security and Traffic Analysis to spot and probe network anomalies using industry tools and techniques.
+-<b>Endpoint Security Monitoring</b> -Monitoring activity on workstations is essential, as that’s where adversaries spend the most time trying to achieve their objectives. <br/>
+-<b>Security Information and Event Management</b> -Understand how SIEM works and get comfortable creating simple and advanced search queries to look for specific answers from the ingested logs. <br/>
+-<b>Digital Forensics and Incident Response</b> -Understand what forensic artifacts are present in the Windows and Linux Operating Systems, how to collect them, and leverage them to investigate security incidents. <br/>
+-<b>Phishing</b> -Learn how to analyze and defend against phishing emails. Investigate real-world phishing attempts using a variety of techniques. <br/>
 
 <h2>👨‍💻 SOC / Blue Team Projects </h2>
 
