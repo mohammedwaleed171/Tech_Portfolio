@@ -1,6 +1,8 @@
  <h1>Hi, I'm Waleed! <br/><a href="https://www.linkedin.com/in/mohammed-waleed-9358881b0/">Cybersecurity Enthusiast</a> </h1>
 <h2> Certification / Qualification  </h2>
 <h3><a href="https://www.tryhackme.com/">TryHackMe's Security Engineering</a></h3>
+<p align="center">
+<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EONT1KZEP5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 -<b>Introduction to Security Engineering</b><br/>-Acquire the foundations for security engineering. Learn about security principles, cryptography fundamentals, and identity management basics.<br/>
 -<b>Threats and Risks</b><br/>-Understand how security engineers help their organisations to identify threats and risks to better manage them.<br/>
 -<b>Network and System Security</b><br/>-Explore principles of network & system security, including secure protocols, hardening OS, cloud, and network devices using the latest techniques.<br/>
@@ -8,8 +10,6 @@
 -<b>Managing Incidents</b><br/>-Understand how security engineers help their organisations during an incident to reduce the impact of the incident.
 
 <h3><a href="https://www.tryhackme.com/">TryHackMe's SOC L1 </a></h3>
-<p align="center">
-<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EONT1KZEP5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 -<b>Cyber Defence Frameworks</b>
 -<b>Cyber Threat Intelligence</b>
