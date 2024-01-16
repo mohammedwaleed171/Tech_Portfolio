@@ -3,10 +3,14 @@
 <h3><a href="https://www.tryhackme.com/">TryHackMe's Security Engineering</a></h3>
 -<b>Introduction to Security Engineering</b>
  -Acquire the foundations for security engineering. Learn about security principles, cryptography fundamentals, and identity management basics.
--<b>Threats and Risks</b>
--<b>Network and System Security</b>
--<b>Software Security</b>
--<b>Managing Incidents</b>
+ -<b>Threats and Risks</b>
+  -Understand how security engineers help their organisations to identify threats and risks to better manage them.
+ -<b>Network and System Security</b>
+  -Explore principles of network & system security, including secure protocols, hardening OS, cloud, and network devices using the latest techniques.
+ -<b>Software Security</b>
+  -Understand how security integrates into the development process of an application, and learn how to mitigate common vulnerabilities in web applications.
+ -<b>Managing Incidents</b>
+  -Understand how security engineers help their organisations during an incident to reduce the impact of the incident.
 
 <h3><a href="https://www.tryhackme.com/">TryHackMe's SOC L1 </a></h3>
 -<b>Cyber Defence Frameworks</b>
