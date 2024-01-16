@@ -2,6 +2,7 @@
 <h2> Certification / Qualification  </h2>
 <h3><a href="https://www.tryhackme.com/">TryHackMe's Security Engineering</a></h3>
 -<b>Introduction to Security Engineering</b>
+ -Acquire the foundations for security engineering. Learn about security principles, cryptography fundamentals, and identity management basics.
 -<b>Threats and Risks</b>
 -<b>Network and System Security</b>
 -<b>Software Security</b>
