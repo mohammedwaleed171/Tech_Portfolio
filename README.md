@@ -7,6 +7,15 @@
 -<b>Software Security</b>
 -<b>Managing Incidents</b>
 
+<h3><a href="https://www.tryhackme.com/">TryHackMe's SOC L1 </a></h3>
+-<b>Cyber Defence Frameworks</b>
+-<b>Cyber Threat Intelligence</b>
+-<b>Network Security and Traffic Analysis</b>
+-<b>Endpoint Security Monitoring</b>
+-<b>Security Information and Event Management</b>
+-<b>Digital Forensics and Incident Response</b>
+-<b>Phishing</b>
+
 <h2>👨‍💻 SOC / Blue Team Projects </h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
