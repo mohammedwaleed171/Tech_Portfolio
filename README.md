@@ -1,5 +1,6 @@
  <h1>Hi, I'm Waleed! <br/><a href="https://www.linkedin.com/in/mohammed-waleed-9358881b0/">Cybersecurity Enthusiast</a> </h1>
 <h2> Certification / Qualification </h2>
+
 <h2>👨‍💻 SOC / Blue Team Projects </h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
