@@ -11,7 +11,7 @@
 <b>Software Security</b>-Understand how security integrates into the development process of an application, and learn how to mitigate common vulnerabilities in web applications.<br/>
 <b>Managing Incidents</b>-Understand how security engineers help their organisations during an incident to reduce the impact of the incident.
 
-<h3><a href="https://www.tryhackme.com/">TryHackMe's SOC L1 </a></h3>
+<h2><a href="https://www.tryhackme.com/">TryHackMe's SOC L1 </a></h2>
 
 <b>Cyber Defence Frameworks</b>-Discover frameworks and policies that help establish a good security posture. Learn how organisations use these in defensive strategies. <br/>
 <b>Cyber Threat Intelligence</b>-Learn about identifying and using available security knowledge to mitigate and manage potential adversary actions. <br/>
