@@ -11,7 +11,7 @@
 <b>Software Security</b>-Understand how security integrates into the development process of an application, and learn how to mitigate common vulnerabilities in web applications.<br/>
 <b>Managing Incidents</b>-Understand how security engineers help their organisations during an incident to reduce the impact of the incident.
 
-<h4><a href="https://www.tryhackme.com/">TryHackMe's SOC L1 </a></h4> <br/>
+<h4><a href="https://www.tryhackme.com/">TryHackMe's SOC L1 </a></h4>
 
 <b>Cyber Defence Frameworks</b>-Discover frameworks and policies that help establish a good security posture. Learn how organisations use these in defensive strategies. <br/>
 <b>Cyber Threat Intelligence</b>-Learn about identifying and using available security knowledge to mitigate and manage potential adversary actions. <br/>
@@ -20,6 +20,10 @@
 <b>Security Information and Event Management</b>-Understand how SIEM works and get comfortable creating simple and advanced search queries to look for specific answers from the ingested logs. <br/>
 <b>Digital Forensics and Incident Response</b>-Understand what forensic artifacts are present in the Windows and Linux Operating Systems, how to collect them, and leverage them to investigate security incidents. <br/>
 <b>Phishing</b>-Learn how to analyze and defend against phishing emails. Investigate real-world phishing attempts using a variety of techniques. <br/>
+
+<h5> Tools and Technologies</h5>
+<b></b>
+
 
 <h2>👨‍💻 SOC / Blue Team Projects </h2>
 
