@@ -21,7 +21,8 @@
 <b>Digital Forensics and Incident Response</b>-Understand what forensic artifacts are present in the Windows and Linux Operating Systems, how to collect them, and leverage them to investigate security incidents. <br/>
 <b>Phishing</b>-Learn how to analyze and defend against phishing emails. Investigate real-world phishing attempts using a variety of techniques. <br/>
 
-<h2>Knowledge Base<h2>
+<h2>Knowledge Base </h2>
+
 <b>Cyber Security Frameworks</b> - Miter Framework, NIST Framework 800-53, CIS <br/>
 <b></b>
 
