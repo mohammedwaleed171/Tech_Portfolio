@@ -22,7 +22,11 @@
 <b>Phishing</b>-Learn how to analyze and defend against phishing emails. Investigate real-world phishing attempts using a variety of techniques. <br/>
 
 <h2> Tools and Technologies</h2>
-<b></b>
+<b>SIEM</b>-Splunk, Elk <br/>
+<b>EDR</b>-Wazuh, LimaCharlie, Sysmon, OSquery, Aurora, Sigma <br/>
+<b>Network Security</b>- Wireshark, Nmap, Zeek, Snort, Suriccata
+<b>Threat and Vulnerability</b>- Yara, Nessus, MISP
+<b>Incident Response and Digital Forensics</b>- Volatility, Autopsy, Velociraptor, Kape, Redline
 
 
 <h2>👨‍💻 SOC / Blue Team Projects </h2>
