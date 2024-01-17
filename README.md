@@ -24,8 +24,8 @@
 <h2> Tools and Technologies</h2>
 <b>SIEM</b>-Splunk, Elk <br/>
 <b>EDR</b>-Wazuh, LimaCharlie, Sysmon, OSquery, Aurora, Sigma <br/>
-<b>Network Security</b>- Wireshark, Nmap, Zeek, Snort, Suriccata
-<b>Threat and Vulnerability</b>- Yara, Nessus, MISP
+<b>Network Security</b>- Wireshark, Nmap, Zeek, Snort, Suriccata <br/>
+<b>Threat and Vulnerability</b>- Yara, Nessus, MISP <br/>
 <b>Incident Response and Digital Forensics</b>- Volatility, Autopsy, Velociraptor, Kape, Redline
 
 
