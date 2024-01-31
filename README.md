@@ -64,5 +64,5 @@
 --asdasdas
 -- Autopsy - CTF completed - Disk Analysis & Autopsy
 --Autopsy - PicoCTF - operation oni completed 
-
+--volatility3-ctf-btlo-memory analysis ransomware
 
