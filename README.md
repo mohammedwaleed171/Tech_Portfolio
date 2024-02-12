@@ -66,4 +66,6 @@
 --Autopsy - PicoCTF - operation oni completed 
 --volatility3-ctf-btlo-memory analysis ransomware
 --itsybitsy-ctf-elk-thm
+-- THM-Splunk-benign-and-Investigating splunk-CTF
+--THM-splunk-botsv2-ctf
 
