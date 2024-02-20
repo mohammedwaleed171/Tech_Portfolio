@@ -22,6 +22,16 @@
 <b>Digital Forensics and Incident Response</b>-Understand what forensic artifacts are present in the Windows and Linux Operating Systems, how to collect them, and leverage them to investigate security incidents. <br/>
 <b>Phishing</b>-Learn how to analyze and defend against phishing emails. Investigate real-world phishing attempts using a variety of techniques. <br/>
 
+<h3><a href="https://www.tryhackme.com/">TryHackMe's Cyber Defense</a></h3>
+<p align="center"><img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MKJL5WICWI.png" height="40%" width="40%" /><p/></p> <br/>
+
+<b>Cyber Defense Introduction</b>-Learn the basics of networking, host-based systems, and active directory. These rooms will give you the foundational knowledge needed to grasp more advanced concepts. <br/>
+<b>Threat and Vulnerability Management</b>- Identify how attackers are developing their techniques to use in your defensive strategy.<br/>
+<b>Security Operations & Monitoring</b>- Learn how to configure and utilise tooling to ensure that suspicious activity is quickly identified and dealt with in your environment.<br/>
+<b>Threat Emulation</b>- The best way to understand how attackers work is to get hands on experience with their techniques.<br/>
+<b>Incident Response and Forensics</b>- Incidents are inevitable. Learn how to identify and respond to them.<br/>
+<b>Malware Analysis</b>- Analyse malicious files to prevent malicious actions and identify attacks.<br/>
+
 <h2>Knowledge Base </h2>
 
 <b>Cyber Security Frameworks</b> - Miter Framework, NIST Framework 800-53, CIS <br/>
