@@ -12,6 +12,7 @@
 <b>Managing Incidents</b>-Understand how security engineers help their organisations during an incident to reduce the impact of the incident.
 
 <h3><a href="https://www.tryhackme.com/">TryHackMe's SOC L1 </a></h3>
+<p align="center"><img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-0QYJW5FTO6.png" height="40%" width="40%" /><p/></p> <br/>
 
 <b>Cyber Defence Frameworks</b>-Discover frameworks and policies that help establish a good security posture. Learn how organisations use these in defensive strategies. <br/>
 <b>Cyber Threat Intelligence</b>-Learn about identifying and using available security knowledge to mitigate and manage potential adversary actions. <br/>
