@@ -68,4 +68,5 @@
 --itsybitsy-ctf-elk-thm
 -- THM-Splunk-benign-and-Investigating splunk-CTF
 --THM-splunk-botsv2-ctf
+--THM-NetSec-CTF
 
