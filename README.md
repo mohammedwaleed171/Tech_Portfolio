@@ -47,8 +47,8 @@
 
 <h2>👨‍💻 SOC / Blue Team Projects </h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>LimaCharlie EDR | Sliver C2</b>
+  - [LimaCharlie EDR | Sliver C2](https://github.com/mohammedwaleed171/LimaCharlie-EDR/blob/main/README.md#limacharlie-edr--sliver-c2-project)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
