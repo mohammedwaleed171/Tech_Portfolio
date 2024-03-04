@@ -32,12 +32,9 @@
 <b>Incident Response and Forensics</b>- Incidents are inevitable. Learn how to identify and respond to them.<br/>
 <b>Malware Analysis</b>- Analyse malicious files to prevent malicious actions and identify attacks.<br/>
 
-<h2>Knowledge Base </h2>
-
+<h2> Knowledge Base | Tools and Technologies</h2>
 <b>Cyber Security Frameworks</b> - Miter Framework, NIST Framework 800-53, CIS <br/>
 <b></b>
-
-<h2> Tools and Technologies</h2>
 <b>SIEM</b>-Splunk, Elk <br/>
 <b>EDR</b>-Wazuh, LimaCharlie, Sysinternals, Sysmon, OSquery, Sigma <br/>
 <b>Network Security</b>- Wireshark, Nmap, Zeek, Snort, Suriccata <br/>
