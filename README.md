@@ -52,17 +52,14 @@
   - Enacting adversarial activity and observing EDR Telemetry
   - Detection Engineering - Writing and tuning detection rules for alerting/blocking the malicous activity
   - YARA Signature Setup and Automation for Sliver C2 Payload Detection
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+### [malware-traffic-analysis | Wireshark](https://github.com/mohammedwaleed171/malware-traffic-analysis?tab=readme-ov-file#malware-traffic-analysis--wireshark)
+- Wireshark: Identifying Hosts and Users
+- Wireshark: Exporting Objects from a Pcap
+- Wireshark: Examining Trickbot Infections
+- Wireshark: Decrypting HTTPS Traffic
+- Wireshark: Decrypting RDP Traffic
+### [Splunk | BOSS the SOC](https://github.com/mohammedwaleed171/Splunk-Boss-the-SOC#splunk--boss-the-soc)
+
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
