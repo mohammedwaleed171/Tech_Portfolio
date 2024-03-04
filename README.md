@@ -36,10 +36,14 @@
 <b>Cyber Security Frameworks</b> - Miter Framework, NIST Framework 800-53, CIS <br/>
 <b></b>
 <b>SIEM</b>-Splunk, Elk <br/>
-<b>EDR</b>-Wazuh, LimaCharlie, Sysinternals, Sysmon, OSquery, Sigma <br/>
+<b>EDR</b>-Wazuh, LimaCharlie, Sysinternals, Sysmon, OSquery <br/>
+<b>Detection Engineering</b>- Sigma, Yara <br/>
 <b>Network Security</b>- Wireshark, Nmap, Zeek, Snort, Suriccata <br/>
 <b>Threat and Vulnerability</b>- Yara, Nessus, MISP <br/>
-<b>Incident Response and Digital Forensics</b>- Volatility, Autopsy, Velociraptor, Kape, Redline
+<b>Incident Response and Digital Forensics</b>- Volatility, Autopsy, Velociraptor, Kape, Redline<br/>
+<b>Phishing</b>- urlscan.io, Anyrun, Hybrid-Analysis, talosintelligence, virustotal<br/>
+<b>Active Directory</b>- Breaching and Enumeration, Kerberoasting Active Directory Hardening <br/>
+<b>Log analysis</b>- Hunting Evil, windows event logs, Sysinternals, Sysmon <br/>
 
 
 <h2>Projects | Experience </h2>
