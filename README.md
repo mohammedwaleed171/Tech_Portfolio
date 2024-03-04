@@ -39,7 +39,7 @@
 
 <h2> Tools and Technologies</h2>
 <b>SIEM</b>-Splunk, Elk <br/>
-<b>EDR</b>-Wazuh, LimaCharlie, Sysmon, OSquery, Aurora, Sigma <br/>
+<b>EDR</b>-Wazuh, LimaCharlie, Sysinternals, Sysmon, OSquery, Sigma <br/>
 <b>Network Security</b>- Wireshark, Nmap, Zeek, Snort, Suriccata <br/>
 <b>Threat and Vulnerability</b>- Yara, Nessus, MISP <br/>
 <b>Incident Response and Digital Forensics</b>- Volatility, Autopsy, Velociraptor, Kape, Redline
@@ -47,7 +47,7 @@
 
 <h2>👨‍💻 SOC / Blue Team Projects </h2>
 
-- <b[LimaCharlie EDR | Sliver C2](https://github.com/mohammedwaleed171/LimaCharlie-EDR/blob/main/README.md#limacharlie-edr--sliver-c2-project)</b>
+- <b>[LimaCharlie EDR | Sliver C2](https://github.com/mohammedwaleed171/LimaCharlie-EDR/blob/main/README.md#limacharlie-edr--sliver-c2-project)</b>
   - 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
