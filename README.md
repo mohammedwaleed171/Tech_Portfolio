@@ -47,8 +47,11 @@
 
 <h2>👨‍💻 SOC / Blue Team Projects </h2>
 
-- <b>[LimaCharlie EDR | Sliver C2](https://github.com/mohammedwaleed171/LimaCharlie-EDR/blob/main/README.md#limacharlie-edr--sliver-c2-project)</b>
-  - 
+### [LimaCharlie EDR | Sliver C2](https://github.com/mohammedwaleed171/LimaCharlie-EDR/blob/main/README.md#limacharlie-edr--sliver-c2-project) </b>
+  - Setting up Ubuntu VM(Attack machine) and Windows VM(Victim machine) | Installing Sysmon and Limacharlie EDR
+  - Enacting adversarial activity and observing EDR Telemetry
+  - Detection Engineering - Writing and tuning detection rules for alerting/blocking the malicous activity
+  - YARA Signature Setup and Automation for Sliver C2 Payload Detection
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
