@@ -65,8 +65,9 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>References and Resources</h2>]
+<h2>References and Resources</h2>
 - [Eric Capuano - So you want to be a SOC Analyst?](https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro) - Blogpost <br/>
+- [Eric Capuano - So you want to be a SOC Analyst?]([url](https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro) <br/>
 - [Malware-Traffic-Analysis.net](https://www.malware-traffic-analysis.net/tutorials/index.html) <br/>
 - [Tryhackme](https://tryhackme.com/) <br/>
 
@@ -75,6 +76,7 @@
 -- Autopsy - CTF completed - Disk Analysis & Autopsy
 --Autopsy - PicoCTF - operation oni completed 
 --volatility3-ctf-btlo-memory analysis ransomware
+- 
 --itsybitsy-ctf-elk-thm
 -- THM-Splunk-benign-and-Investigating splunk-CTF
 --THM-splunk-botsv2-ctf
