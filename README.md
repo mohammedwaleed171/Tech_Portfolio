@@ -43,7 +43,7 @@
 <b>Incident Response and Digital Forensics</b>- Volatility, Autopsy, Velociraptor, Kape, Redline<br/>
 <b>Phishing</b>- urlscan.io, Anyrun, Hybrid-Analysis, talosintelligence, virustotal<br/>
 <b>Active Directory</b>- Breaching and Enumeration, Kerberoasting Active Directory Hardening <br/>
-<b>Log analysis</b>- Hunting Evil, windows event logs, Sysinternals, Sysmon <br/>
+<b>Log analysis</b>- Hunting Evil, windows event logs, Sysinternals, Sysmon, DeepBlueCLI <br/>
 
 
 <h2>Projects | Experience </h2>
