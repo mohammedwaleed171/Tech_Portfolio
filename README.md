@@ -77,12 +77,7 @@
 - [Malware-Traffic-Analysis.net](https://www.malware-traffic-analysis.net/tutorials/index.html) <br/>
 - [Tryhackme](https://tryhackme.com/) <br/>
 
-<h2> NOTES FOR FUTURE </h2>
---asdasdas
--- Autopsy - CTF completed - Disk Analysis & Autopsy
---Autopsy - PicoCTF - operation oni completed 
---volatility3-ctf-btlo-memory analysis ransomware
-- 
+
 --itsybitsy-ctf-elk-thm
 -- THM-Splunk-benign-and-Investigating splunk-CTF
 --THM-splunk-botsv2-ctf
