@@ -68,9 +68,6 @@
  - Nmap, Protocols and Servers
  - Attacking Logins with Hydra
 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
 <h2>References and Resources</h2>
 
 - [Eric Capuano - So you want to be a SOC Analyst?](https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro) <br/>
@@ -78,8 +75,4 @@
 - [Tryhackme](https://tryhackme.com/) <br/>
 
 
---itsybitsy-ctf-elk-thm
--- THM-Splunk-benign-and-Investigating splunk-CTF
---THM-splunk-botsv2-ctf
---THM-NetSec-CTF
 
