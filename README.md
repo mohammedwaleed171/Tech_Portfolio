@@ -60,7 +60,7 @@
 - Wireshark: Decrypting HTTPS Traffic
 - Wireshark: Decrypting RDP Traffic
 ### [Splunk | BOSS the SOC](https://github.com/mohammedwaleed171/Splunk-Boss-the-SOC#splunk--boss-the-soc)
-### [Investigating with ELK | Tryhackme's Itsybitsy CTF](https://github.com/mohammedwaleed171/Investigating-with-ELK#investigating-with-elk--tryhackmes-itsybitsy-ctf)
+### [Investigating with ELK](https://github.com/mohammedwaleed171/Investigating-with-ELK#investigating-with-elk--tryhackmes-itsybitsy-ctf)
 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
