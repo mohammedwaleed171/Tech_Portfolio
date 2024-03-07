@@ -61,6 +61,10 @@
 - Wireshark: Decrypting RDP Traffic
 ### [Splunk | BOSS the SOC](https://github.com/mohammedwaleed171/Splunk-Boss-the-SOC#splunk--boss-the-soc)
 ### [Investigating with ELK](https://github.com/mohammedwaleed171/Investigating-with-ELK#investigating-with-elk--tryhackmes-itsybitsy-ctf)
+### [Network Security](https://github.com/mohammedwaleed171/Network-Security/blob/main/README.md#network-security)
+ - Active and passive reconnaaissance
+ - Nmap, Protocols and Servers
+ - Attacking Logins with Hydra
 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
