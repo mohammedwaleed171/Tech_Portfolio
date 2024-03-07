@@ -60,7 +60,9 @@
 - Wireshark: Decrypting HTTPS Traffic
 - Wireshark: Decrypting RDP Traffic
 ### [Splunk | BOSS the SOC](https://github.com/mohammedwaleed171/Splunk-Boss-the-SOC#splunk--boss-the-soc)
+ - Navigating through the Splunk Boss of the Soc 2 (BOTS2) competition dataset to increase our capabilities using Splunk
 ### [Investigating with ELK](https://github.com/mohammedwaleed171/Investigating-with-ELK#investigating-with-elk--tryhackmes-itsybitsy-ctf)
+ - Demonstrating the process of investigating a potential C2 communication alert using ELK
 ### [Network Security](https://github.com/mohammedwaleed171/Network-Security/blob/main/README.md#network-security)
  - Active and passive reconnaaissance
  - Nmap, Protocols and Servers
