@@ -44,6 +44,7 @@
 <b>Phishing</b>- urlscan.io, Anyrun, Hybrid-Analysis, talosintelligence, virustotal<br/>
 <b>Active Directory</b>- Breaching and Enumeration, Kerberoasting Active Directory Hardening <br/>
 <b>Log analysis</b>- Hunting Evil, windows event logs, Sysinternals, Sysmon, DeepBlueCLI <br/>
+<b>Programming</b>- C, Python, SQL, KQL
 
 
 <h2>Projects | Experience </h2>
