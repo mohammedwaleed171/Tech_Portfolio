@@ -33,7 +33,7 @@
 <b>Malware Analysis</b>- Analyse malicious files to prevent malicious actions and identify attacks.<br/>
 
 <h2> Knowledge Base | Tools and Technologies</h2>
-<b>Cyber Security Frameworks</b> - Miter Framework, NIST Framework 800-53, CIS <br/>
+<b>Cyber Security Frameworks</b> - MITRE ATT&CK, NIST Framework 800-53, CIS <br/>
 <b></b>
 <b>SIEM</b>-Splunk, Elk <br/>
 <b>EDR</b>-Wazuh, LimaCharlie, Sysinternals, Sysmon, OSquery <br/>
