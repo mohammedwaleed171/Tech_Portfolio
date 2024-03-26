@@ -1,4 +1,4 @@
- <h1>Hi, I'm Waleed! <br/><a href="https://www.linkedin.com/in/mohammed-waleed-9358881b0/">Cybersecurity Enthusiast</a> </h1>
+ <h1>Hi, I'm Waleed! <br/><a href="https://www.linkedin.com/in/mw171">Cybersecurity Enthusiast</a> </h1>
  
 <h2> Certification / Qualification  </h2>
 
@@ -49,22 +49,22 @@
 
 <h2>Projects | Experience </h2>
 
-### [LimaCharlie EDR | Sliver C2](https://github.com/mohammedwaleed171/LimaCharlie-EDR/blob/main/README.md#limacharlie-edr--sliver-c2-project) </b>
+### [LimaCharlie EDR | Sliver C2](https://github.com/wm171/LimaCharlie-EDR/blob/main/README.md#limacharlie-edr--sliver-c2-project) </b>
   - Setting up Ubuntu VM(Attack machine) and Windows VM(Victim machine) | Installing Sysmon and Limacharlie EDR
   - Enacting adversarial activity and observing EDR Telemetry
   - Detection Engineering - Writing and tuning detection rules for alerting/blocking the malicous activity
   - YARA Signature Setup and Automation for Sliver C2 Payload Detection
-### [malware-traffic-analysis | Wireshark](https://github.com/mohammedwaleed171/malware-traffic-analysis?tab=readme-ov-file#malware-traffic-analysis--wireshark)
+### [malware-traffic-analysis | Wireshark](https://github.com/wm171/malware-traffic-analysis?tab=readme-ov-file#malware-traffic-analysis--wireshark)
 - Wireshark: Identifying Hosts and Users
 - Wireshark: Exporting Objects from a Pcap
 - Wireshark: Examining Trickbot Infections
 - Wireshark: Decrypting HTTPS Traffic
 - Wireshark: Decrypting RDP Traffic
-### [Splunk | BOSS the SOC](https://github.com/mohammedwaleed171/Splunk-Boss-the-SOC#splunk--boss-the-soc)
+### [Splunk | BOSS the SOC](https://github.com/wm171/Splunk-Boss-the-SOC#splunk--boss-the-soc)
  - Navigating through the Splunk Boss of the Soc 2 (BOTS2) competition dataset to increase our capabilities using Splunk
-### [Investigating with ELK](https://github.com/mohammedwaleed171/Investigating-with-ELK#investigating-with-elk--tryhackmes-itsybitsy-ctf)
+### [Investigating with ELK](https://github.com/wm171/Investigating-with-ELK#investigating-with-elk--tryhackmes-itsybitsy-ctf)
  - Demonstrating the process of investigating a potential C2 communication alert using ELK
-### [Network Security](https://github.com/mohammedwaleed171/Network-Security/blob/main/README.md#network-security)
+### [Network Security](https://github.com/wm171/Network-Security/blob/main/README.md#network-security)
  - Active and passive reconnaaissance
  - Nmap, Protocols and Servers
  - Attacking Logins with Hydra
